@@ -6,7 +6,7 @@
             "destination": "/api/$1"
         },
         {
-            "source": "/meta-verified-for-business",
+            "source": "/verified-for-business",
             "destination": "/index.html"
         },
         {
